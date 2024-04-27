@@ -44,7 +44,7 @@ export default function Home() {
               {/* <p className='text-sm mb-2 text-pink-500'>About Us</p> */}
 
               
-                <h1 className='text-5xl font-bold text-purple-900'>Dr. Surabhi Vegad</h1> 
+                <h1 className='text-5xl font-bold text-purple-900'>Dr. Surabhi Vegadd</h1> 
                 <p className='mb-6 text-sm text-pink-500 pt-2'>Leading Gynecologist in Bhuj, Kutch</p>
                 <div className='flex justify-center heading-title'>
                   <span>
